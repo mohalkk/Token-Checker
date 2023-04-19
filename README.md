@@ -1,4 +1,4 @@
-# Token-Validator
+# Token-Checker
 Checks Bloxflip/Roblox tokens if they are valid
 
 ![Screenshot (653)](https://user-images.githubusercontent.com/45693149/233214843-8f637e1b-bb3c-4b57-ad61-448fc791704b.png)
